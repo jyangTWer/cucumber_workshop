@@ -1,3 +1,5 @@
 Feature: search
 	Scenario: search "csdn"
-		* I open the homepage
+		* Open the homepage
+		* Search "csdn"
+		* Have 4 result
