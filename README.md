@@ -9,3 +9,8 @@
 ##Step2:
 ### bundle init
 	Writing new Gemfile to /Users/jyang/QAM/thirdSession/siwo/cucumber_workshop/Gemfile
+##Step3
+	gem 'cucumber'
+	gem 'capybara'
+	gem 'selenium-webdriver'
+	gem 'pry'
